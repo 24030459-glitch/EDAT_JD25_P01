@@ -50,14 +50,16 @@ internal class Program
         //    Console.WriteLine((IntPtr)puntero);
         //}
 
-        var numeros = new List<int> { 8, 5, 9, 6, 4, 7, 4, 7 };
-        Func<int, bool> ObtenerPares = (num) => num % 2 == 0;
-        var pares = numeros.Where(ObtenerPares);
-        Console.WriteLine("Hola");
+        //var numeros = new List<int> { 8, 5, 9, 6, 4, 7, 4, 7 };
+        //Func<int, bool> ObtenerPares = (num) => num % 2 == 0;
+        //var pares = numeros.Where(ObtenerPares);
+        //Console.WriteLine("Hola");
 
 
 
 
+
+        Console.WriteLine();   
 
 
 
